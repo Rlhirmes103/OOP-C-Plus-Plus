@@ -1,3 +1,3 @@
-# OOP-in-Java
+# OOP-in-C++
 
 class projects.
